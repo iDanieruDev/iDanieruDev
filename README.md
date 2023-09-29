@@ -28,7 +28,7 @@ _Desde pequeño tuve afinidad con los computadores y la programación, a los 8 a
 </br>
 
  
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python" title="Python" height="auto" width="60px"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/jupyter.svg" alt="Jupyter" height="auto" width="60px"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg" alt="Google Colab" height="auto" width="60px"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg" alt="Numpy" height="auto" width="60px"></a> &nbsp;&nbsp;
