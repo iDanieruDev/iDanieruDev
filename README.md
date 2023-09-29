@@ -2,7 +2,7 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hello+there+!;Welcome+to+my+profile+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font='Comfortaa'&color=%23268F77&size=30&center=true&vCenter=true&height=30&lines=Hola+a+todos+!;Bienvenido+a+mi+repo+!)](https://git.io/typing-svg)
     
 
     
