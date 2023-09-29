@@ -1,5 +1,9 @@
 ### Hola, mi nombre es Daniel 👋
 
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=e69138&center=true&vCenter=true&width=477&lines=Desarrollador,+Speaker,+Teacher;Open+Source+Contributor" alt="Typing SVG" /></a>
+</p>
+
 Un poco de mi....
 Desde pequeño tuve afinidad con los computadores y la programación, a los 8 años hice mi primera web básica usando bloc de notas y algún que otro juego en RPGMaker (programaba sin saberlo). Entre a estudiar Ingenieria Civil plan común con el objetivo de elegir la especialidad de Informática, sin embargo, por cosas de la vida, terminé eligiendo la especialidad de Electricidad (grave error). Me titulé y trabajé algunos años en esto, pero nunca me terminó de gustar. Desde hace años me han apasionado las redes neuronales y la inteligencia artificial y ahora que este campo esta tomando fuerza, finalmente decidí cambiar de rubro hacia mi verdadera vocación.
 
