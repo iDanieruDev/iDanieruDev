@@ -29,18 +29,19 @@ _Desde pequeño tuve afinidad con los computadores y la programación, a los 8 a
 
  
 <a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/python.svg" alt="Python" title="Python" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/jupyter.svg" alt="Jupyter" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg" alt="Google Colab" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg" alt="Numpy" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg" alt="Pandas" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg" alt="MySQL" height="auto" width="60px"></a> &nbsp;&nbsp; 
-<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="auto" width="130"></a> &nbsp;&nbsp; 
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
-<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/blender.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/jupyter.svg" alt="Jupyter" title="Jupyter Notebook" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/colab.svg" alt="Google Colab" title="Google Colab" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://github.com/detain/svg-logos/blob/master/svg/p/pycharmedu-icon.svg" alt="PyCharm" title="PyCharm" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/numpy.svg" alt="Numpy" title="Numpy" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/pandas.svg" alt="Pandas" title="Pandas" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/github.svg" alt="GitHub" title="GitHub" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/tools/mysql.svg" alt="MySQL" title="SQL" height="auto" width="60px"></a> &nbsp;&nbsp; 
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit Learn" height="auto" width="130"></a> &nbsp;&nbsp; 
+<a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px" title="TensorFlow"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px" title="PyTorch"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" height="auto" width="60px" title="VisualBasic(VBA)"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="auto" width="60px" title="Unity"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/blender.svg" height="auto" width="60px" title="Blender"></a> &nbsp;&nbsp;
 
 
 
