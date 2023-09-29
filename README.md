@@ -39,6 +39,13 @@ _Desde pequeño tuve afinidad con los computadores y la programación, a los 8 a
 <a href="#"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
 <a href="#"><img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
+<a href="#"><img src="https://github.com/get-icon/geticon/blob/master/icons/blender.svg" height="auto" width="60px"></a> &nbsp;&nbsp;
+
+
+
+
+
  
 
 
