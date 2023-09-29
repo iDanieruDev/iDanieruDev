@@ -20,6 +20,7 @@ _Desde pequeño tuve afinidad con los computadores y la programación, a los 8 a
 * 🧠 Constantemente aprendiendo
 * 🖥️ Proyectos BootCamp Tripleten [https://github.com/iDanieruDev/Tripleten-projects](https://github.com/iDanieruDev/Tripleten-projects)
 * ⭐ Proyecto Hackaton TripleTen [https://idanierudev.github.io/](https://idanierudev.github.io/)
+* 💡 Bot de Discord con GPT [https://github.com/iDanieruDev/Discord_botGPT](https://github.com/iDanieruDev/Discord_botGPT)
 
 
 
